@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RedCell
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RedCell\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RedCell()
+comment1.text=\r\n\ Get\ a\ random\ number\ from\ 1\ to\ 2\ and\ set\ it\ the\ the\ intance\ variable\ speed.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Moves\ the\ RedCell\ from\ right\ to\ left\ and\ it\ turns\ it\ slowly\ clockwise.\r\n\ If\ the\ RedCell\ touches\ the\ left\ of\ the\ screen\ it\ will\ get\ removed.\r\n
+numComments=3
